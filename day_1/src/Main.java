@@ -10,12 +10,12 @@ public class Main {
 //    evenOrOdd();
 //    sameString();
 //    numeroPrimo();
-//    sumandoImpares();
+    sumandoImpares();
 //    sumandoPrimos();
 //    MenuCalculadora();
 //    sumandoPrimos();
 //        MenuCalculadora();
-        Bowling();
+//        Bowling();
     }
 
     public static void MostrarNombreYApellido() {
